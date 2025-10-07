@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title> Another Page </title>
+
+<a href="heading_nr1">Go to first heading</a>
+
+<a href="heading_nr2">Go to second heading</a>
+
+</head>
+
+<body>
+    <h1 id="heading_nr1">This is another page in my website</h1>
+
+    <br>
+
+<img src="Nature.jpg" width="250" height="250">
+
+<p>
+
+Nature is an inherent character or constitution particularly of the ecosphere or the universe as a whole.
+
+</p>
+
+<br>
+
+<h2 id="heading_nr2">This is my second heading </h2>
+
+
+
+</body>
+
+
+
+</html>
