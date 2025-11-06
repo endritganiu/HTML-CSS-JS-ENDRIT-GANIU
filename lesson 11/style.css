@@ -1,0 +1,29 @@
+p{
+    background: url(galaxy\ pic.jpg);
+    font-size: 50px;
+    margin-top: 100px;
+    margin-bottom: 150px;
+    margin-right: 100px;
+    margin-left: 80px;
+    color: rgb(2, 197, 222);
+    border-width: 2px;
+    border-style: solid;
+    border-color: white;
+}
+div{
+    padding: 50px;
+    width: 300px;
+    border: 15px solid rgb(20, 70, 89);
+    margin:20px;
+    font-size: 20px;
+    background-color: cadetblue;
+}
+
+body{
+    background: url(galaxy\ pic.jpg);
+    background-size: cover;
+    
+    
+}
+
+
