@@ -1,0 +1,31 @@
+body {
+    font-family: Arial;
+}
+
+.menu {
+    background: black;
+    padding: 10px;
+}
+
+.menu a {
+    color: white;
+    margin-right: 10px;
+    text-decoration: none;
+}
+
+.box {
+    border: 2px solid black;
+    width: 250px;
+    padding: 10px;
+}
+
+.box:hover {
+    background: #e6e6e6;
+}
+
+@media (max-width:600px) {
+    body {
+        background: #f2f2f2;
+    }
+}
+
